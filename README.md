@@ -7,7 +7,8 @@ Sou estudante de Ciência de Dados e tenho interesse em explorar como a tecnolog
 Gosto de entender como as coisas funcionam, explorar novas ferramentas e descobrir as possibilidades que surgem da combinação entre dados e tecnologia.
 
 Criei este espaço para reunir meus projetos, registrar minhas experiências e compartilhar minha trajetória de aprendizado nas áreas que fazem parte do futuro da tecnologia.
- ---
+
+
 ### 🔎 Interesses
 - Ciência de Dados
 - Inteligência Artificial
@@ -23,12 +24,4 @@ Criei este espaço para reunir meus projetos, registrar minhas experiências e c
   <img src="https://img.shields.io/badge/Machine_Learning-00897B?style=for-the-badge"/>
 </p>
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=StelaLacerda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
-
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelaLacerda&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
