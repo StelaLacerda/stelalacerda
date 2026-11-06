@@ -91,7 +91,7 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 </div>
 
-<sub>Esta seção será atualizada com projetos autorais, suas documentações, tecnologias utilizadas e resultados obtidos.</sub>
+
 
 ---
 
