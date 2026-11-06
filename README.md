@@ -15,10 +15,7 @@ Criei este espaço para reunir meus projetos, registrar minhas experiências e c
 - Análise e visualização de dados
 - Google Cloud
 
-### 🧩 O que você encontrará por aqui?
-Projetos, estudos, experimentos e aplicações práticas desenvolvidos ao longo da minha jornada.
 
-## 🛠️ Tecnologias e áreas de interesse
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
