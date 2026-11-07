@@ -146,7 +146,7 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/ana-stela-lacerda-pascoal-a486b5401/">
+<a href="https://www.linkedin.com/in/stela-lacerda-a486b5401/">
 <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
