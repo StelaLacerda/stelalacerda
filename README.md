@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:101B38,100:5425A8&height=190&section=header&text=STELA%20LACERDA&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ARTIFICIAL%20INTELLIGENCE&descAlignY=61&descSize=14&animation=fadeIn"/>
 
@@ -47,6 +47,7 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 <img src="https://img.shields.io/badge/PYTHON-IN%20LEARNING-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-IN%20LEARNING-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MYSQL-IN%20LEARNING-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/GOOGLE%20CLOUD-EXPLORING-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 
 <br/><br/>
@@ -76,6 +77,7 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 | Git | Controle de versão |
 | Google Cloud | Exploração de computação em nuvem |
 | VS Code | Ambiente de desenvolvimento |
+| MySQL | Estudos e gerenciamento de bancos de dados |
 
 ---
 
@@ -91,8 +93,6 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 </div>
 
-
-
 ---
 
 ## `05` // CURRENT OBJECTIVES
@@ -102,13 +102,14 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 │
 ├── [01] Aprofundar conhecimentos em Python
 ├── [02] Desenvolver habilidades em SQL
-├── [03] Explorar Inteligência Artificial
-├── [04] Estudar fundamentos de Machine Learning
-├── [05] Conhecer ferramentas de Ciência de Dados
-├── [06] Explorar Google Cloud
-└── [07] Desenvolver projetos autorais
-
-[STATUS] IN PROGRESS...
+├── [03] Aprender MySQL e gerenciamento de bancos de dados
+├── [04] Explorar Inteligência Artificial
+├── [05] Estudar fundamentos de Machine Learning
+├── [06] Conhecer ferramentas de Ciência de Dados
+├── [07] Explorar Google Cloud
+├── [08] Desenvolver projetos autorais
+│
+└── [STATUS] IN PROGRESS...
 ```
 
 ---
@@ -117,39 +118,21 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=StelaLacerda&show_icons=true&hide_border=true&bg_color=080D1B&title_color=8B9EFF&icon_color=00C8FF&text_color=C9D1D9&rank_icon=github&include_all_commits=true"/>
+### PROFILE METRICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StelaLacerda&layout=compact&hide_border=true&bg_color=080D1B&title_color=8B9EFF&text_color=C9D1D9"/>
+<img src="https://img.shields.io/github/followers/StelaLacerda?style=for-the-badge&logo=github&label=FOLLOWERS&color=5425A8&labelColor=080D1B"/>
 
-<br/><br/>
+<img src="https://img.shields.io/github/repos/StelaLacerda?style=for-the-badge&logo=github&label=PUBLIC%20REPOSITORIES&color=00C8FF&labelColor=080D1B"/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=StelaLacerda&theme=tokyonight&hide_border=true&background=080D1B&ring=8B9EFF&fire=00C8FF&currStreakLabel=8B9EFF"/>
+<img src="https://img.shields.io/github/stars/StelaLacerda/stelalacerda?style=for-the-badge&logo=github&label=PROFILE%20STARS&color=8B9EFF&labelColor=080D1B"/>
 
-</div>
-
----
-
-## `07` // CONTRIBUTION ACTIVITY
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=StelaLacerda&bg_color=080D1B&color=8B9EFF&line=00C8FF&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img src="https://img.shields.io/github/languages/count/StelaLacerda/stelalacerda?style=for-the-badge&label=LANGUAGES%20IN%20PROFILE%20REPOSITORY&color=00C8FF&labelColor=080D1B"/>
 
 </div>
 
 ---
 
-## `08` // GITHUB TROPHIES
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=StelaLacerda&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=10"/>
-
-</div>
-
----
-
-## `09` // CONTRIBUTION SNAKE
+## `07` // CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -159,7 +142,7 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 
 ---
 
-## `10` // CONNECT WITH ME
+## `08` // CONNECT WITH ME
 
 <div align="center">
 
@@ -192,5 +175,3 @@ Este espaço é dedicado aos meus estudos, descobertas e projetos que farão par
 <sub>EXPLORING DATA. EXPANDING POSSIBILITIES.</sub>
 
 </div>
-
-
